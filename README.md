@@ -63,7 +63,7 @@ The Resulted File:
 ![MysteriousFile](https://github.com/user-attachments/assets/49206741-89ae-4754-886a-e1c9f72a55e4)
 
 ## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+This project is licensed under the MIT License . See the [LICENSE](LICENSE) file for details.
 
 ##
 
