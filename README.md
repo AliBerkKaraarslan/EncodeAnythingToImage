@@ -1,6 +1,6 @@
-# EncryptAnythingToImage
+# EncodeAnythingToImage
 
-EncryptAnythingToImage is a Python project that allows you to encrypt any file by converting its binary data into RGB values and storing it in an image. This repository contains two scripts: `encoder.py` and `decoder.py`. The `encoder.py` script encodes a file into an image, and the `decoder.py` script decodes the image back into the original file.
+EncodeAnythingToImage is a Python project that allows you to encode any file by converting its binary data into RGB values and storing it in an image. This repository contains two scripts: `encoder.py` and `decoder.py`. The `encoder.py` script encodes a file into an image, and the `decoder.py` script decodes the image back into the original file.
 
 ## Features
 
